@@ -1,0 +1,13 @@
+lr = 0.0001
+dropout_rate = 0.5
+max_epoch = 1350 #3317
+batch_size = 4096
+w = 19
+u = 9
+glimpse_hidden = 128
+bp_hidden = 128
+glimpse_out = 128
+nGlimpse = 7
+lstm_cell_size = 128
+action_hidden_1 = 256
+action_hidden_2 = 256
